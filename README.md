@@ -10,7 +10,7 @@ age - your current age
 rate - % for investing
 max_age - your age, when you planning to stop investing
 
-run script cmd:
+# run script cmd:
 python main.py
 
-requirements: python 3.x.x
+# requirements: python 3.x.x
